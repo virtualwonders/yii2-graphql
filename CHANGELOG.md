@@ -1,6 +1,7 @@
 Yii2 Graphql Changelog
 =======================
 # 0.13
+- update fro graphql-php(v0.13.8)
 - update for graphql-php(v0.13)
 - add graphql-upload(v4.0.0)
 # 0.11
